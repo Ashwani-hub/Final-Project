@@ -126,7 +126,7 @@ replace WKSWRK = 24.5 if WKSWRK == 3
 replace WKSWRK = 14.5 if WKSWRK == 2
 replace WKSWRK = 5 if WKSWRK == 1
 
-drop TotInc_AT HCORENEED_IND LICO LICO_AT LoLIMA LoLIMB LoMBM CfSize
+drop TotInc_AT IncTax HCORENEED_IND LICO LICO_AT LoLIMA LoLIMB LoMBM CfSize
 *Dependent Var. Cleaning
 drop if Wages == 99999999
 
