@@ -39,5 +39,3 @@ In order to achieve our goal, the dataset provided above is enough. That's why t
  -   UNIQUE (Column2)
 );
 
-DELETE ME
-
