@@ -45,4 +45,6 @@ Since the original dataset was too large to upload on jupyter notebook and clean
 ## Result
 We found that age, STEM, PrMinWage, Being a Male, and Being married is associated with higher education. We also found that being part-time workers, being a female, and being identified as a visible minority is associated with a negative effect on their wages. (See Table 1)
 
+![Screen Shot 2021-09-29 at 3 14 12 PM](https://user-images.githubusercontent.com/80184581/135357291-5515aab5-216b-4103-891f-3a3ddb9cacaf.png)
+
 The results do not surprise us as we, as a society, have long been known how gender, race, and marital status can affect one's economic condition, and our result further supports this knowledge.
