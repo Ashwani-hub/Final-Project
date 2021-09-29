@@ -48,3 +48,8 @@ We found that age, STEM, PrMinWage, Being a Male, and Being married is associate
 ![Screen Shot 2021-09-29 at 3 14 12 PM](https://user-images.githubusercontent.com/80184581/135357291-5515aab5-216b-4103-891f-3a3ddb9cacaf.png)
 
 The results do not surprise us as we, as a society, have long been known how gender, race, and marital status can affect one's economic condition, and our result further supports this knowledge.
+### Tableau Dashboard
+![image](https://user-images.githubusercontent.com/80184581/135359990-e0d7d978-3b74-4642-a04e-e4caeff58056.png)
+
+https://public.tableau.com/app/profile/ashwani.sharma3952/viz/WagesAnalysis_16329557669810/Dashboard12?publish=yes
+
